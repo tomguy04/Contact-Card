@@ -1,0 +1,49 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#wrapper{
+    width: 970px;
+    margin: 10px auto;
+}
+
+#cardarea{
+    display: inline-block;
+    vertical-align: top;
+    width: 500px;
+    height:500px;
+    margin-left: 30px;
+    outline: solid green 2px;
+}
+
+.card{
+    display:block;
+    outline: solid black 2px;
+    background-color: gray;
+    padding: 5px;
+    width: 490px;
+}
+
+#form1{
+    display: inline-block;
+}
+
+#form1 input{
+    display: block;
+}
+
+#descriptionarea{
+    display: none;
+    width: 490px;
+}
+
+#descriptionareahide{
+    display: none;
+    width: 490px;
+}
+
+#descriptionareashow{
+    display: inline-block;
+    width: 490px;
+}
